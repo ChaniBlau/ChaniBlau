@@ -34,7 +34,7 @@
 ---
 
 ## 📄 Resume  
-👉 [Download My CV](./ChaniBlau_Resume.pdf)
+👉 [Download My CV](ChaniBlau_Resume.pdf)
 
 ## 📬 Contact Me  
 email: chani054054@gmail.com
