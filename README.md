@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Chani Blau
+# Hi there 👋 I'm Chana Blau
 
 🎓 Full Stack Developer | Passionate about clean architecture, scalable backend systems, and writing elegant code.
 
