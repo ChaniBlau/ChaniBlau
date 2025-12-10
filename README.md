@@ -25,11 +25,14 @@
 
 ## 📌 Featured Projects
 
-- **Task Management System (ASP.NET Core)**  
-  Multi-layered backend system for managing tasks, subtasks, statuses & permissions using design patterns like Builder, State, Observer, and more.
+- **LinkJobs(Node-js, TypeScript)**  
+    A robust backend system for managing LinkedIn groups, job postings, keywords, and saved searches.
 
-- **Responsive Web Game (HTML/CSS/JS)**  
-  Interactive and fully responsive browser game with clean UX and modular code.
+- **Emotional Therapic site(ASP.NET Core+ React)**  
+    Child therapy appointment management with roles and scheduling
+  
+- **Task Management System (ASP.NET Core)**  
+    Multi-layered backend system for managing tasks, subtasks, statuses & permissions using design patterns like Builder, State, Observer, and more.
 
 ---
 
